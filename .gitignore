@@ -1,0 +1,14 @@
+
+terraform.tfvars
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+id_rsa
+id_rsa.pub
+*.pem
+
+*.log
+*.bak
+.DS_Store
+Thumbs.db
